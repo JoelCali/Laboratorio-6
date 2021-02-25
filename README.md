@@ -29,13 +29,13 @@
    
    ![image](https://user-images.githubusercontent.com/76132461/109226839-6267dc80-778d-11eb-89ef-0ff0c8d0785c.png)
 
-  4.- Lista de componentes
+  4.- LISTA DE COMPONENTES
   
   ![image](https://user-images.githubusercontent.com/76132461/109227814-ebcbde80-778e-11eb-9521-38540fd98e7e.png)
 
-  5.- Explicación
+  5.- EXPLICACIÓN
     
-  5.1.- Procedimiento
+  5.1.- PROCEDIMIENTO
 
    1. Se ingresa a la plataforma DCACLAB, se crea una cuenta, a continuación, se da click en laboratorio y se comienza a crear el circuito.
     
@@ -52,3 +52,63 @@
    7. Para conectar el osciloscopio se coloca sus terminales a los extremos de la resistencia RL y al osciloscopio se lo configura en 0.1m
    
    8. Para conectar el mutímetro analógico se lo conecta en paralelo a la RL.
+
+  5.2.- Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
+
+   Dando click a la fuente alterna de voltaje, seguido a la rueda dentada, se puede cambiar el voltaje pico a pico segun se necesite, tambien en frecuencia se lo puede modificar en Khz o en Hz.
+   
+   5.3.- Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
+
+   Para conectar el osciloscopio, se lo conecta en paralelo a los terminales de la resistencia RL, a continuación se le cambia a 0.1m para poder visualizar la onda.
+   
+   6.- PREGUNTAS
+   
+   6.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+   
+   La amplitud abarca 2 y 1/4 de divisiones.
+   
+   6.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?
+   
+   La perilla esta posicionada en 3.
+   
+   6.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+   
+   
+   
+   6.4 ¿En qué valor está posicionada la perilla TIME/DIV?
+   
+   
+   
+   6.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+
+   Amplitud de voltaje: 6.85(V)
+   
+   Periodo: 0.4(ms)
+  
+   6.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
+
+   f: (Hz)
+   
+   ω: 15707.96 (rad/s)
+   
+   6.7 Con el multímetro digital mida el voltaje de salida en RL:
+   
+   El voltaje de salida de RL es de 4.447
+   
+   6.8 Compare el voltaje medido en el punto 6.5. y el obtenido en el punto 6.7. ¿Coinciden? ¿Por qué?
+   
+   
+   7.- CONCLUSIONES
+   
+   8.- BIBLIOGRAFÍA
+
+Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
+
+
+
+
+
+
+
+
+
