@@ -15,10 +15,19 @@
    
    Circuito General
    
+   ![image](https://user-images.githubusercontent.com/76132461/109226239-6810f280-778c-11eb-8c07-62eda55cabe0.png)
+   
    Circuito con osciloscopio conectado
+   
+   ![image](https://user-images.githubusercontent.com/76132461/109226338-968ecd80-778c-11eb-8c85-513488b469c2.png)
 
    Circuito con multímetro digital colocado
 
+  ![image](https://user-images.githubusercontent.com/76132461/109226499-dbb2ff80-778c-11eb-8f9c-d6316ebc3348.png) 
+  
+   Circuito con multímetro y osciloscopio conectado
+   
+   ![image](https://user-images.githubusercontent.com/76132461/109226839-6267dc80-778d-11eb-89ef-0ff0c8d0785c.png)
 
 
 
