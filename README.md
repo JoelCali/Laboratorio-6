@@ -29,7 +29,26 @@
    
    ![image](https://user-images.githubusercontent.com/76132461/109226839-6267dc80-778d-11eb-89ef-0ff0c8d0785c.png)
 
+  4.- Lista de componentes
+  
+  ![image](https://user-images.githubusercontent.com/76132461/109227814-ebcbde80-778e-11eb-9521-38540fd98e7e.png)
 
+  5.- Explicación
+    
+  5.1.- Procedimiento
 
+   1. Se ingresa a la plataforma DCACLAB, se crea una cuenta, a continuación, se da click en laboratorio y se comienza a crear el circuito.
+    
+   2. Se seleccionan los materiales que vamos a utilizar, 2 resistencias, multimetro digital, fuente de voltaje alterno y un osciloscopio.
+     
+   3. Se coloca la fuente de voltaje y del terminal de esta fuente se coloca una resistencia de 1 Kohm.
+   
+   4. Del otro terminal de la resistencia, se coloca otra resistencia de 2.2 kohm.
+    
+   5. De la resistencia de 2.2 kohm se cierra el circuito.
 
+   6. Se modifica la fuente alterna colocando 20 Vpp a una frecuencia de 2.5 Khz.
 
+   7. Para conectar el osciloscopio se coloca sus terminales a los extremos de la resistencia RL y al osciloscopio se lo configura en 0.1m
+   
+   8. Para conectar el mutímetro analógico se lo conecta en paralelo a la RL.
