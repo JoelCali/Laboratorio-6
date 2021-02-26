@@ -1,12 +1,16 @@
 # Laboratorio-6
 
   1.- Objetivo General
-    - Estudiar la corriente alterna mediante el uso de simuladores en circuitos serie con la ayuda del osciloscopio.
+ 
+   - Estudiar la corriente alterna mediante el uso de simuladores en circuitos serie con la ayuda del osciloscopio.
 
   1.1.- Objetivos Específicos
-    - Identificar la forma en la que se conecta el osciloscopio y el multímetro digital en el nuevo simulador.
-    - Analizar el circuito y su comportamiento al momento de visualizar las ondas que aparecen en la pantalla del osciloscopio.
-    - Comparar los datos del osciloscopio y del multímetro digital.
+ 
+   - Identificar la forma en la que se conecta el osciloscopio y el multímetro digital en el nuevo simulador.
+   
+   - Analizar el circuito y su comportamiento al momento de visualizar las ondas que aparecen en la pantalla del osciloscopio.
+    
+   - Comparar los datos del osciloscopio y del multímetro digital.
 
    2.- Marco Teórico
 
@@ -73,11 +77,11 @@
    
    6.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
    
-   
+   Las divisiones que abarca un ciclo completo de la señal de salida son 4 cuadros.
    
    6.4 ¿En qué valor está posicionada la perilla TIME/DIV?
    
-   
+   El valor que se toma al posicionar la perilla en TIME/DIV es de 0.1ms, para tener una vista tangible de la onda sinusoidal.
    
    6.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
@@ -87,7 +91,7 @@
   
    6.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-   f: (Hz)
+   f: 2.5(Hz)
    
    ω: 15707.96 (rad/s)
    
@@ -96,6 +100,9 @@
    El voltaje de salida de RL es de 4.447
    
    6.8 Compare el voltaje medido en el punto 6.5. y el obtenido en el punto 6.7. ¿Coinciden? ¿Por qué?
+   
+   Al comparar ambos resultados observamos que no coinciden ya que nuestro voltaje de salida de Rl es 4.447, en el cual se puede apreciar un error del 30% con 
+   respecto al voltaje RMS de 6.85.
    
    
    7.- CONCLUSIONES
