@@ -104,8 +104,17 @@
    Al comparar ambos resultados observamos que no coinciden ya que nuestro voltaje de salida de Rl es 4.447, en el cual se puede apreciar un error del 30% con 
    respecto al voltaje RMS de 6.85.
    
-   
+   ![image](https://user-images.githubusercontent.com/76134214/109257235-b55d8600-77c5-11eb-9502-7780de9da7f0.png)
+
+     
    7.- CONCLUSIONES
+   
+ - El nuevo simulador brindaba la posibilidad de conectar tanto el osciloscopio y el multímetro digital, además de que la forma correcta es en paralelo a la resistencia en la cual se visualizó las ondas sinusoidales.
+   
+ - Al concluir con la práctica, notamos que el comportamiento del circuito y de la onda sinusoidal dependían mucho del tiempo en el cual se quería visualizar, como en nuestro caso 0.1 milisegundos, en este periodo de tiempo la onda fue visible.
+
+ - En conclusión, los datos obtenidos tanto de la simulación como de cálculos arrojaban un error cercano al 30% ya que se nuestro voltaje RMS variaba continuamente.
+
    
    8.- BIBLIOGRAFÍA
 
